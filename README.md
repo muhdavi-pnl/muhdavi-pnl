@@ -1,104 +1,118 @@
 # Muhammad Davi
 
-Lecturer & Researcher in Intelligent Information Systems  
+Lecturer & Researcher in Machine Learning, Recommender Systems, and Software Engineering  
 Politeknik Negeri Lhokseumawe | Alumni Universitas Gadjah Mada (UGM)
 
 ---
 
 ## About Me
 
-I am a lecturer and researcher focusing on the design and development of intelligent academic information systems, decision support systems, and applied software engineering solutions for higher education.
+I am a lecturer and researcher focusing on the design, development, and evaluation of intelligent systems driven by machine learning and data mining techniques.
 
-My work integrates:
-- Constraint-based modeling
-- Scheduling optimization
-- Workload fairness analysis
-- Academic system automation
-- Virtual and cloud-based laboratory systems
+My research bridges:
 
-I am particularly interested in transforming real institutional problems into structured computational models with measurable performance improvements.
+- Recommender Systems
+- Applied Machine Learning
+- Data Mining & Pattern Discovery
+- Intelligent Decision Support Systems
+- Empirical Software Engineering
 
----
-
-## Current Research Focus
-
-- Fairness-Aware Academic Scheduling Model  
-- Constraint-Based Seminar Allocation Optimization  
-- Academic Workload Distribution Modeling  
-- Intelligent Decision Support Systems for Higher Education  
-- Virtual Lab and Cloud Lab Infrastructure Design  
+I am particularly interested in transforming real-world institutional and user behavior data into predictive and recommendation models with measurable performance improvements.
 
 ---
 
-## Ongoing Flagship Projects
+## Research Interests
 
-### 1. Intelligent Academic Scheduling System
-Constraint-based and fairness-aware seminar scheduling model with experimental evaluation.
+- Hybrid Recommender Systems  
+- Collaborative & Content-Based Filtering  
+- Machine Learning Model Optimization  
+- Educational Data Mining  
+- Intelligent Information Systems  
+- Experimental Evaluation & Model Benchmarking  
+- Scalable Software Architecture for AI Systems  
+
+---
+
+## Current Research Direction
+
+### 1. Intelligent Recommendation Models
+Design and evaluation of hybrid recommendation techniques for educational and institutional environments.
 
 Focus:
-- Conflict minimization
-- Workload variance reduction
+- Accuracy optimization (Precision, Recall, F1, RMSE)
+- Cold-start mitigation strategies
+- Model interpretability
+
+### 2. Applied Machine Learning Systems
+End-to-end ML system development integrating data preprocessing, model training, evaluation, and deployment.
+
+Focus:
+- Feature engineering
+- Model comparison studies
 - Performance benchmarking
 
-### 2. Academic Workload Optimization Model
-Mathematical modeling and simulation of lecturer workload balancing strategies.
+### 3. Data-Driven Decision Support
+Utilizing data mining techniques to support strategic and operational decision-making in higher education.
 
 Focus:
-- Fairness metrics (variance, standard deviation, distribution index)
-- Comparative algorithm analysis
-- Scalability evaluation
-
-### 3. Virtual Laboratory Architecture Framework
-Design and implementation of scalable virtual lab environments for software engineering education.
-
-Focus:
-- Resource allocation modeling
-- Cloud-based deployment
-- Infrastructure efficiency
+- Clustering & classification models
+- Predictive analytics
+- Behavioral pattern analysis
 
 ---
 
 ## Research Methodology Approach
 
-My development workflow integrates:
+My workflow integrates:
 
 1. Problem formalization  
-2. Constraint modeling  
-3. Algorithm implementation  
-4. Experimental validation  
-5. Quantitative performance evaluation  
+2. Data preprocessing & feature engineering  
+3. Model development & hyperparameter tuning  
+4. Experimental validation & benchmarking  
+5. Statistical evaluation  
 6. Reproducible research documentation  
 
-GitHub repositories serve as structured research laboratories, where experiments, logs, and results are version-controlled and systematically documented.
+GitHub repositories are structured as experimental research environments, where datasets, models, and evaluation results are systematically version-controlled.
 
 ---
 
-## Selected Technical Stack
+## Technical Stack
 
-- Laravel (Backend Framework)
-- PHP
-- MySQL / Relational Database Design
-- RESTful API Architecture
-- Constraint Modeling
-- Algorithmic Scheduling
-- Experimental System Evaluation
+**Machine Learning & Data Science**
+- Python
+- Scikit-learn
+- Pandas & NumPy
+- Jupyter Notebook
+- Model evaluation metrics & validation techniques
+
+**Software Engineering**
+- Laravel (Backend)
+- RESTful API Design
+- Database Modeling (MySQL)
+- System Architecture & Modular Design
+
+**Research & Experimentation**
+- Comparative model analysis
+- Cross-validation
+- Statistical performance measurement
 
 ---
 
 ## Research Vision
 
-To develop scalable, fair, and intelligent academic systems that bridge software engineering practice with quantitative research validation, contributing to high-impact scholarly publications and institutional digital transformation.
+To develop scalable, data-driven intelligent systems that combine robust software engineering principles with rigorous machine learning experimentation, contributing to impactful scholarly publications and practical institutional solutions.
 
 ---
 
-## Contact & Collaboration
+## Collaboration
 
 Open for:
-- Research collaboration
+
+- Research collaboration in recommender systems & ML
 - Joint publications
-- Academic system development projects
-- Supervised student research integration
+- Supervised student research projects
+- Applied intelligent system development
 
 ---
 
-> “Transforming institutional complexity into intelligent computational solutions.”
+> "Designing intelligent systems through data-driven experimentation and rigorous software engineering."
